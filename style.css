@@ -4,6 +4,7 @@
 
 body {
     background: #573824 url("/images/bg-image.png") no-repeat center/ cover;
+    font-family: "Alice", serif;
 }
 
 
@@ -16,6 +17,24 @@ body {
     
 }
 
-.main {
-    
+main {
+    padding-inline: 24px;
+}
+
+h1, h2 {
+    font-weight: 400;
+    font-size: 40px;
+    font-style: normal;
+    color: #291B1A; 
+}
+
+h2 {
+    font-size: 24px;
+}
+
+
+p, li {
+    color: #573A37;
+    font-size: 16px;
+    line-height: 25px;
 }
