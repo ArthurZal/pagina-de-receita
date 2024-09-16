@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #573824 url("/images/bg-image.png") no-repeat center/ cover;
+}
+
+
+.container {
+    width: 800px;
+    background-color: #F0E8C2;
+    border-radius: 24px;
+    margin: auto;
+    padding: 24px;
+    
+}
+
+.main {
+    
+}
